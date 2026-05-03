@@ -12,7 +12,7 @@ Para este proyecto he usado:
 - **React**: Para la parte visual, usando Hooks para manejar el estado de los datos.
 - **Jikan API**: Una API gratuita que me permite buscar información y portadas de MyAnimeList.
 
-## 3. Manejo de Datos (JSON vs XML)
+## 3. Manejo de Datos
 En el proyecto usa JSON por ser más ligero y fácil de integrar con React, aqui tenemos un ejemplo de la estructura seguida para los jsons.
 
 **Formato JSON:**
