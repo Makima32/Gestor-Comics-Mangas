@@ -8,7 +8,7 @@ La idea es que el usuario pueda tener su "biblioteca" digital, pudiendo añadir 
 ## 2. Tecnologías y Librerías
 Para este proyecto he usado:
 - **Java con Spring Boot**: Para crear la API REST del backend.
-- **GSON (de Google)**: Para convertir los objetos de Java a formato JSON y viceversa de forma sencilla. Es fundamental para la persistencia en archivos.
+- **GSON**: Para convertir los objetos de Java a formato JSON y viceversa de forma sencilla. Es fundamental para la persistencia en archivos.
 - **React**: Para la parte visual, usando Hooks para manejar el estado de los datos.
 - **Jikan API**: Una API gratuita que me permite buscar información y portadas de MyAnimeList.
 
