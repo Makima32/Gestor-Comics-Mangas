@@ -41,3 +41,7 @@ La web se abrirá en `http://localhost:3000`.
 - **Persistencia real**: Los datos no se borran al cerrar el servidor porque se guardan en un archivo JSON usando la librería GSON.
 - **Buscador de portadas**: Usa la API de Jikan para buscar la imagen del manga automáticamente por el título.
 - **Diseño Premium**: Interfaz moderna con Flexbox y efectos visuales.
+
+## Documentación
+
+[Ver la documentación completa](docs/documentation.md)
