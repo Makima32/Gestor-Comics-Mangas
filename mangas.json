@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "title": "Tokyo ghoul",
+    "author": "Sui Ishida",
+    "genre": "Seinen",
+    "volumes": 14,
+    "status": "Completado",
+    "imageUrl": "https://www.normaeditorial.com/upload/media/albumes/0001/05/5f5d81d1d8918df070a03a970db8e09a613c488c.jpeg"
+  },
+  {
+    "id": 2,
+    "title": " Vivy Fluorite Eye\u0027s Song",
+    "author": "Eiji Umehara",
+    "genre": "Acción",
+    "volumes": 4,
+    "status": "Completado",
+    "imageUrl": "https://myanimelist.net/images/manga/1/249035l.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Chainsaw man",
+    "author": "Tatsuki Fujimoto",
+    "genre": "Shonen",
+    "volumes": 17,
+    "status": "Completado",
+    "imageUrl": "https://m.media-amazon.com/images/I/61pQw83nHRL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Killing Stalking",
+    "author": "Koogi",
+    "genre": "Thriller Psicológico / Horror",
+    "volumes": 8,
+    "status": "Completado",
+    "imageUrl": "https://myanimelist.net/images/manga/1/220586l.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Jujutsu kaisen",
+    "author": "Gege Akutami",
+    "genre": "Shonen",
+    "volumes": 30,
+    "status": "En curso",
+    "imageUrl": "https://myanimelist.net/images/manga/3/210341l.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Dragon Ball super",
+    "author": "Akira Toriyama",
+    "genre": "Shonen",
+    "volumes": 40,
+    "status": "Completado",
+    "imageUrl": "https://myanimelist.net/images/manga/2/176933l.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Dandadan",
+    "author": "Yukinobu Tatsu",
+    "genre": "Shonen / Sobrenatural",
+    "volumes": 14,
+    "status": "En curso",
+    "imageUrl": "https://myanimelist.net/images/manga/2/248746l.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Kimetsu no Yaiba",
+    "author": "Koyoharu Gotouge",
+    "genre": "Shonen",
+    "volumes": 23,
+    "status": "Completado",
+    "imageUrl": "https://myanimelist.net/images/manga/3/179023l.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Naruto Shippuden",
+    "author": "Masashi Kishimoto",
+    "genre": "Shonen",
+    "volumes": 71,
+    "status": "Completado",
+    "imageUrl": "https://myanimelist.net/images/manga/1/228881l.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Seraph of the End",
+    "author": "Takaya Kagami",
+    "genre": "Shonen",
+    "volumes": 31,
+    "status": "En curso",
+    "imageUrl": "https://myanimelist.net/images/manga/2/205755l.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Hanako-kun",
+    "author": "AidaIro",
+    "genre": "Sobrenatural",
+    "volumes": 21,
+    "status": "En curso",
+    "imageUrl": "https://myanimelist.net/images/manga/3/192551l.jpg"
+  }
+]

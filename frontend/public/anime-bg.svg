@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b0c70" />
+      <stop offset="45%" stop-color="#12132a" />
+      <stop offset="100%" stop-color="#0a0b12" />
+    </linearGradient>
+    <linearGradient id="glow" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="800">
+      <stop offset="0%" stop-color="#ff4d85" stop-opacity="0.35" />
+      <stop offset="60%" stop-color="#7c5cff" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#24d5ff" stop-opacity="0.1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bgGradient)" />
+  <circle cx="220" cy="120" r="110" fill="#ffffff" fill-opacity="0.05" />
+  <circle cx="980" cy="180" r="80" fill="#ffffff" fill-opacity="0.06" />
+  <path d="M0 520 C250 470 300 450 380 520 C460 590 520 610 630 560 C740 510 840 520 960 580 L1200 800 L0 800 Z" fill="#ffffff" fill-opacity="0.05" />
+  <path d="M210 230 C260 160 390 140 460 220 C530 300 610 330 740 240 C860 150 940 180 1020 260" stroke="#ff4d85" stroke-width="7" fill="none" opacity="0.35" />
+  <path d="M300 680 C420 640 480 600 560 620 C640 640 700 700 820 680" stroke="#24d5ff" stroke-width="10" fill="none" opacity="0.18" />
+  <path d="M710 140 C750 90 840 80 900 130" stroke="#ffffff" stroke-width="2" opacity="0.5" />
+  <g opacity="0.22" fill="#ffffff">
+    <ellipse cx="930" cy="560" rx="90" ry="40" />
+    <ellipse cx="880" cy="620" rx="50" ry="20" />
+    <ellipse cx="980" cy="620" rx="30" ry="12" />
+  </g>
+  <path d="M420 320 C480 206 570 190 630 240 C660 280 680 330 690 390 C698 430 670 465 625 462 C585 460 556 430 520 410 C482 388 470 340 420 320 Z" fill="#ffffff" fill-opacity="0.06" />
+  <circle cx="450" cy="320" r="6" fill="#ffffff" opacity="0.35" />
+  <circle cx="562" cy="360" r="10" fill="#ffffff" opacity="0.22" />
+  <rect x="760" y="340" width="260" height="220" rx="120" fill="url(#glow)" opacity="0.55" />
+</svg>
