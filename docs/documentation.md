@@ -13,7 +13,7 @@ Para este proyecto he usado:
 - **Jikan API**: Una API gratuita que me permite buscar información y portadas de MyAnimeList.
 
 ## 3. Manejo de Datos (JSON vs XML)
-Aunque el proyecto usa JSON por ser más ligero y fácil de integrar con React, aquí dejo una comparativa de cómo se vería un manga en ambos formatos.
+En el proyecto usa JSON por ser más ligero y fácil de integrar con React, aqui tenemos un ejemplo de la estructura seguida para los jsons.
 
 **Formato JSON:**
 ```json
@@ -26,15 +26,7 @@ Aunque el proyecto usa JSON por ser más ligero y fácil de integrar con React, 
 }
 ```
 
-**Formato XML:**
-```xml
-<manga>
-    <id>1</id>
-    <title>Jujutsu Kaisen</title>
-    <author>Gege Akutami</author>
-    <status>En curso</status>
-</manga>
-```
+
 
 ## 4. Persistencia en Fichero
 El backend no usa una base de datos SQL convencional. En su lugar, he implementado un sistema que guarda la información en un fichero llamado `mangas.json`. 
