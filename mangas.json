@@ -97,5 +97,14 @@
     "volumes": 21,
     "status": "En curso",
     "imageUrl": "https://myanimelist.net/images/manga/3/192551l.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Pokemon",
+    "author": "1",
+    "genre": "1",
+    "volumes": 1,
+    "status": "En curso",
+    "imageUrl": "https://myanimelist.net/images/manga/2/303976l.jpg"
   }
 ]
