@@ -8,12 +8,12 @@ La idea es que el usuario pueda tener su "biblioteca" digital, pudiendo añadir 
 ## 2. Tecnologías y Librerías
 Para este proyecto he usado:
 - **Java con Spring Boot**: Para crear la API REST del backend.
-- **GSON (de Google)**: Para convertir los objetos de Java a formato JSON y viceversa de forma sencilla. Es fundamental para la persistencia en archivos.
+- **GSON**: Para convertir los objetos de Java a formato JSON y viceversa de forma sencilla. Es fundamental para la persistencia en archivos.
 - **React**: Para la parte visual, usando Hooks para manejar el estado de los datos.
 - **Jikan API**: Una API gratuita que me permite buscar información y portadas de MyAnimeList.
 
-## 3. Manejo de Datos (JSON vs XML)
-Aunque el proyecto usa JSON por ser más ligero y fácil de integrar con React, aquí dejo una comparativa de cómo se vería un manga en ambos formatos.
+## 3. Manejo de Datos
+En el proyecto usa JSON por ser más ligero y fácil de integrar con React, aqui tenemos un ejemplo de la estructura seguida para los jsons.
 
 **Formato JSON:**
 ```json
@@ -26,15 +26,7 @@ Aunque el proyecto usa JSON por ser más ligero y fácil de integrar con React, 
 }
 ```
 
-**Formato XML:**
-```xml
-<manga>
-    <id>1</id>
-    <title>Jujutsu Kaisen</title>
-    <author>Gege Akutami</author>
-    <status>En curso</status>
-</manga>
-```
+
 
 ## 4. Persistencia en Fichero
 El backend no usa una base de datos SQL convencional. En su lugar, he implementado un sistema que guarda la información en un fichero llamado `mangas.json`. 
